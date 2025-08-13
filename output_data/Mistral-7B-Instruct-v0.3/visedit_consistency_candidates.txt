@@ -1,0 +1,8 @@
+Data Length:5194
+EM@1 counter:2824
+EM@10 counter:3903
+EM_consistency counter:3143
+
+EM@1:0.5437042741624952
+EM@10:0.7514439738159415
+EM_consistency:0.605121293800539

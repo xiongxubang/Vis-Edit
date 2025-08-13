@@ -1,0 +1,1 @@
+!pip install -q torch transformers transformers langchain sentence-transformers tqdm pandas datasets langchain-community
